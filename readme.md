@@ -1,6 +1,6 @@
-# wordle-test
+# wordle solution
 
-script to display today's word in console
+script to display the current word in console if you cba to find it yourself
 
 how to use:
 1) press f12 (or ctrl+shift+i)
