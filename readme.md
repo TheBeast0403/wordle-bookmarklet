@@ -1,4 +1,4 @@
-# wordle solution
+# wordle bookmarklet
 
 bookmarklet to show you current solution
 
